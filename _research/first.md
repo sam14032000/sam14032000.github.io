@@ -10,3 +10,5 @@ Over the years national market policy for several nations has been driven by dom
 The study uses [Multivariate GARCH](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.27.1240&rep=rep1&type=pdf), the BEKK(1,1) model. The first parameter of the model is the order of the ARCH model and the second parameter is the order of the GARCH component of the model. MGARCH-BEKK uses the residuals of a p-order VAR model fitted onto the data, where p is the optimal order of the model. Residuals of the VAR model contain information about unexpected shocks in the system. A bivariate VAR model residuals, hence can quantify the relative movements of the markets.  
 
 The results show a significant transmission of volatility to larger economies in Asia from India, as compared to US & UK. This can be attributed to the high volume of trade between India and other Asian countries. Whereas, there was significant volatility transmission from all markets to India except China and Singapore, suggesting a decoupling of the markets.
+
+Code repository: [Click Here](https://github.com/sam14032000/market_linkages_mgarch-bekk)
