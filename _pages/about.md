@@ -18,9 +18,8 @@ Broadly, my research interests are split into Artificial Intelligence, Econometr
 
 Exploring AI, I worked on replicating the ALOFT project by the Naval Research Laboratory, Washington, and completed a basic version of the algorithm at the end of the study in 2018. My work in Computational Finance involves two research studies, first of which decribes a VAR + LSTM hybrid prediction model, used to predict the future volatility of financial markets, completed mid-2020 and under review by a journal. The second paper is a network analysis study focused on analysing the links between different international markets, when going through certain financial events, a draft of the paper is close to completion. In Econometrics, I worked on recession analysis and volatilty transmission. Both research papers were completed in early and mid 2020 respectively, and are currently under review by journals. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+For details of my formal education, please view my CV. 
+If you find my profile interesting and want to discuss more, mail me at [sakshama135@gmail.com](mailto:sakshama135@gmail.com). 
+P.S. I'm open to discussing philosophy too :)
