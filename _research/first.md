@@ -1,5 +1,5 @@
 ---
-title: "Volatility Transmission among international markets: Analysis using MGARCH-BEKK model"
+title: "Volatility transmission between international markets: Analysis using MGARCH-BEKK model"
 excerpt: "With incresing globalisation, the links between markets have started to become stronger. As a result, markets now hold significant influence on other international markets. We study this effect by measuring the volatility transmitted from a market to another. Model used for analysis is the Multivariate GARCH model (BEKK(1,1))<br>
 *Status: First draft complete. Under review by a journal*<br/><img src='/images/full_data.png'>  "
 collection: research
