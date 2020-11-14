@@ -250,7 +250,7 @@ defaults:
       share: true
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
