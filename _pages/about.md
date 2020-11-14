@@ -14,11 +14,9 @@ My name is Saksham Agrawal. I am an undergrad student at [Birla Institute of Tec
 <script src="https://gist.github.com/sam14032000/e64ca9bf5d370c555152ae23b684b5a6.js"></script>
 
 ## Research Interests & Projects pursued
-Broadly, my topics of interest include Artificial Intelligence, Econometrics & Computational Finance.
+Broadly, my research interests are split into Artificial Intelligence, Econometrics & Computational Finance. 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Exploring AI, I worked on replicating the ALOFT project by the Naval Research Laboratory, Washington, and completed a basic version of the algorithm at the end of the study in 2018. My work in Computational Finance involves two research studies, first of which decribes a VAR + LSTM hybrid prediction model, used to predict the future volatility of financial markets, completed mid-2020 and under review by a journal. The second paper is a network analysis study focused on analysing the links between different international markets, when going through certain financial events, a draft of the paper is close to completion. In Econometrics, I worked on recession analysis and volatilty transmission. Both research papers were completed in early and mid 2020 respectively, and are currently under review by journals. 
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
