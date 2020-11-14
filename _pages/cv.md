@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Economics, Birla Institute of Technology and Science, Pilani, 2022
+* B.Tech. in Computer Science, Birla Institute of Technology and Science, Pilani, 2022
+* Maharashtra School Leaving Certificate Examination, Completed with 9 CGPA, 2017 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May - July 2019: Development Intern
+  * Samhita Social Ventures
+  * Duties included: Business Developmwnt and Sales
+  * Location: Mumbai, India
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2018 - 2019: Research Consultant
+  * Worldquant LLC.
+  * Duties included: Backtesting trading strategies
+  * Location: Remote
+
+* August 2018 - 2019: Project Coordinator
+  * DRDO, INMAS Lab, Delhi, India
+  * Duties included: Developing swarm drone control simulation and team management
+  * Location: Remote
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Prog. Languages: Python, R, Java, MySQL
+* Robot Operating Software
 
 Research
 ======
@@ -50,4 +51,5 @@ Projects
 
 Service and leadership
 ======
-* 
+* Leader of the drone control system sproject
+* Leader of Project Pinaka: Secured funding for product prototype from Boeing via Boeing BUILD
