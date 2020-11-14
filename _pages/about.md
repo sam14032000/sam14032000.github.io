@@ -20,6 +20,6 @@ Exploring AI, I worked on replicating the ALOFT project by the Naval Research La
 
 For more info
 ------
-For details of my formal education, please view my CV. 
-If you find my profile interesting and want to discuss more, mail me at [sakshama135@gmail.com](mailto:sakshama135@gmail.com). 
+For details of my formal education, please view my [CV](https://sam14032000.github.io/cv/).  
+If you find my profile interesting and want to discuss more, mail me at [sakshama135@gmail.com](mailto:sakshama135@gmail.com).   
 P.S. I'm open to discussing philosophy too :)
