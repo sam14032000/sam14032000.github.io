@@ -11,4 +11,4 @@ The study uses [Multivariate GARCH](http://citeseerx.ist.psu.edu/viewdoc/downloa
 
 The results show a significant transmission of volatility to larger economies in Asia from India, as compared to US & UK. This can be attributed to the high volume of trade between India and other Asian countries. Whereas, there was significant volatility transmission from all markets to India except China and Singapore, suggesting a decoupling of the markets.
 
-Code repository: [Click Here](https://github.com/sam14032000/market_linkages_mgarch-bekk)
+## Code repository: [Click Here](https://github.com/sam14032000/market_linkages_mgarch-bekk)
