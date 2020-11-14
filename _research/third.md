@@ -1,6 +1,6 @@
 ---
-title: "Community analysis of International markets post 2008"
+title: "Stock market volatility prediction using VAR-ML hybrid model"
 excerpt: "Study focused on finding changes in communities over the period of 2008-2020, for networks made by India, Japan, China, Singapore, Hong Kong, US & UK. <br>
-*Status: First draft in progress*<br/><img src='/images/500x300.png'>"
+*Status: First draft completed. Under review by a journal.*<br/><img src='/images/data_pre.png'>"
 collection: research
 ---
