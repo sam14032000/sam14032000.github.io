@@ -1,10 +1,6 @@
 ---
-title: "Paper Title Number 1"
-collection: research
-permalink: /research/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Community analysis of International markets post 2008"
+excerpt: "Study focused on finding changes in communities over the period of 2008-2020, for networks made by India, Japan, China, Singapore, Hong Kong, US & UK. <br>
+*Status: First draft in progress*<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
