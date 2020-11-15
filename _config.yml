@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Saksham Agrawal"
   avatar           : "front_page.jpg"
-  bio              : "Undergraduate engineering student at BITS, Pilani university. Pursuing B.Tech Computer Science + M.Sc. in Economics | <br> Interested in the following research topics: Econometrics; Applied mathematical finance; ANYTHING related to statistics"
+  bio              : "Undergraduate engineering student at BITS, Pilani university. Pursuing B.Tech Computer Science + M.Sc. in Economics |   <br> Interested in the following research topics: Econometrics; Applied mathematical finance; ANYTHING related to statistics"
   location         : "India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Saksham52984026"
+  twitter          :
   vine             :
   weibo            :
   xing             :
