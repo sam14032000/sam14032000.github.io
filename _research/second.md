@@ -1,7 +1,7 @@
 ---
 title: "Recession Prediction using Markov Regime Switching Model"
 excerpt: "Based on the business cycle theory, every economic recession and expansion is just part of a cyclic process. Hence it is a fair to treat different parts of the cycle as seperate regimes, where the economy resides. Over the years bond yield has acted like a measure for market sentiment and an indicator for recessions.We test the capability of bond yields in predicting recessions in multiple countries, by using a modification of the model, which uses external regressors to calculate a [time varying transition probability](https://www.kansascityfed.org/publicat/reswkpap/pdf/rwp98-09.pdf) developed by Andrew J. Filardo. Below is the image of predictions made by the model for USA. <br>
-*Status: First draft completed. Under review by supervising professor.*<br/><img src='/images/us5.png'>"
+*Status: First draft completed. Under review by supervising professor.*<br/><img src='/images/markov_switch.JPG'>"
 collection: research
 ---
 
@@ -11,4 +11,7 @@ An example of such change is the rise in yield spreads. Whenever the bond yield 
 
 We study the efficacy of yield spread as a recession indicator, by applying the model first on data from USA (baseline), since investors in developed markets are often more disciplined and focus on such indiactors. Following this, the model is applied on three developing countries, to test whether this simple model can be accurate in predicting recession time periods.
 
-![Results: India]<img src='/images/ind5.png'>![South Africa]<img src='/images/sa5.png'>![South Korea]<img src='/images/sk5.png'>
+Results:
+![India](/images/ind5.png)
+![South Africa](/images/sa5.png)
+![South Korea](/images/sk5.png)
