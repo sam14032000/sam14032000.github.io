@@ -9,11 +9,16 @@ Over the years economies over the world have gone through several recessions. Ev
 
 An example of such change is the rise in yield spreads. Whenever the bond yield curve inverts, it suggests a abnormal market position, and the yield spread rises. Every recession since the 1990s has witnessed an inversion of the curve before a recession, however a curve inversion is not a definite indicator. Inversion should occur for a certain time and upto a certain intensity for it to signal a recession. Capturing this signal, using yield spread as an exogenic regressor on GDP, is the aim of this study. The Markov Switching model with time varying transition probabilities ([Andrew J. Filardo, 1998](https://www.kansascityfed.org/publicat/reswkpap/pdf/rwp98-09.pdf)) is an appropriate model to do so. The model constructs the transition matrix for each point in time slice by assuming the switch variable to be a markov process. The switch variable signals a change in the regime. In Filardo's model, the switch variable is a markov process and can be influeneced by the external regressor, which can be an indicator of the status of nation's ecnonomy. In out case, the external regressor was the 10 year-3 month yield spread. 
 
-We study the efficacy of yield spread as a recession indicator, by applying the model first on data from USA (baseline), since investors in developed markets are often more disciplined and focus on such indiactors. Following this, the model is applied on three developing countries, to test whether this simple model can be accurate in predicting recession time periods.
+We study the efficacy of yield spread as a recession indicator, by applying the model first on data from USA (baseline), since investors in developed markets are often more disciplined and focus on such indiactors. Following this, the model is applied on three developing countries, to test whether this simple model can be accurate in predicting recession time periods. Time period of analysis for each country was chosen to maximize the number of recessions within the period of 1990-2020. Accuracy of the model was measured using the Quadratic Probability score ([Diebold & Rudebusch, 1989](https://www.sas.upenn.edu/~fdiebold/papers2/Diebold-Rudebusch%20(1989).pdf)).
 
 ### Results: India
 ![India](/images/ind5.png)
+Quadratic Probability Score(QPS) = 0.387
 ### South Africa
 ![South Africa](/images/sa5.png)
+Qudratic Probability Score(QPS) = 0.471
 ### South Korea
 ![South Korea](/images/sk5.png)
+Quadratic Probability Score(QPS) = 0.581
+
+### Code Repository: [Click Here](https://github.com/sam14032000/recession_study)
