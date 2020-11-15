@@ -34,7 +34,8 @@ Work experience
   
 Skills
 ======
-* Prog. Languages: Python, R, Java, MySQL
+* Prog. Languages: C, Python, R, Java, MySQL
+  * Tensorflow, numpy, pandas
 * Robot Operating Software
 
 Research
