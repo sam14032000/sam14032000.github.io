@@ -5,7 +5,7 @@ excerpt: "Volatility modelling has been an important part of financial modelling
 collection: research
 ---
 
-The study uses basic LSTM, GRU LSTM and bi-drectional LSTM models to compare the predictions made by two different data sets.
+The study uses basic LSTM, GRU LSTM and bi-drectional LSTM models to compare the predictions made by two different data sets (Training period: 2008-2019; Test period: 2019-2020).
 * The first dataset:
   * Input data: Indian stock market volatility; US, UK, Japan, China, Singapore, Hong Kong daily market data
   * Target Variable: Next day volatility of Indian stock market
