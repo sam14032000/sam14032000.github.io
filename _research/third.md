@@ -11,7 +11,7 @@ The study uses basic LSTM, GRU LSTM and bi-drectional LSTM models to compare the
   * Target Variable: Next day volatility of Indian stock market
 * The second dataset:
   * Input data: VAR residuals for VAR fitted on India and each of the other six countries individually; Indian stock market volatility; US, UK, Japan, China, Singapore, Hong Kong daily market data
-  Target Variable: Next day volatility of Indian stock market
+  * Target Variable: Next day volatility of Indian stock market
 
 VAR residuals contain information about the response of a variable to a unexpected shock in the other variable. The other six countries were chosen as contributing variables since the nations are mostly developed or have a high volume of trade with India.
 
