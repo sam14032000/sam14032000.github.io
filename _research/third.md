@@ -17,4 +17,5 @@ VAR residuals contain information about the response of a variable to a unexpect
 
 The hybrid model showed improved accuracy and increased senstivity to market shocks, proving the effectiveness of the hybrid model and the usefulness of residual data in volatility prediction.
 
+### Best Performance: Bi-directional LSTM with the second dataset (Hybrid Model): RMSE = 0.00018
 ![Best Performance: Bi-directional LSTM with the second dataset (Hybrid Model)](/images/bilstm.png)
