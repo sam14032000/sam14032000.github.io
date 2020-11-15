@@ -4,3 +4,17 @@ excerpt: "Volatility modelling has been an important part of financial modelling
 *Status: First draft completed. Under review by a journal.*<br/><img src='/images/data_pre.png'>"
 collection: research
 ---
+
+The study uses basic LSTM, GRU LSTM and bi-drectional LSTM models to compare the predictions made by two different data sets.
+* The first dataset:
+  * Input data: Indian stock market volatility; US, UK, Japan, China, Singapore, Hong Kong daily market data
+  * Target Variable: Next day volatility of Indian stock market
+* The second dataset:
+  * Input data: VAR residuals for VAR fitted on India and each of the other six countries individually; Indian stock market volatility; US, UK, Japan, China, Singapore, Hong Kong daily market data
+  Target Variable: Next day volatility of Indian stock market
+
+VAR residuals contain information about the response of a variable to a unexpected shock in the other variable. The other six countries were chosen as contributing variables since the nations are mostly developed or have a high volume of trade with India.
+
+The hybrid model showed improved accuracy and increased senstivity to market shocks, proving the effectiveness of the hybrid model and the usefulness of residual data in volatility prediction.
+
+![Best Performance: Bi-directional LSTM with the second dataset (Hybrid Model)](/images/bilstm.png)
