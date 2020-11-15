@@ -11,9 +11,9 @@ An example of such change is the rise in yield spreads. Whenever the bond yield 
 
 We study the efficacy of yield spread as a recession indicator, by applying the model first on data from USA (baseline), since investors in developed markets are often more disciplined and focus on such indiactors. Following this, the model is applied on three developing countries, to test whether this simple model can be accurate in predicting recession time periods.
 
-Results: **India**
+### Results: India
 ![India](/images/ind5.png)
-**South Africa**
+### South Africa
 ![South Africa](/images/sa5.png)
-**South Korea**
+### South Korea
 ![South Korea](/images/sk5.png)
