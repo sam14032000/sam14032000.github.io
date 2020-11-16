@@ -1,7 +1,7 @@
 ---
 title: "Drone Swarm Control"
 excerpt: "Project under the supervision of INMAS lab, Delhi, focused on Human Machine Teaming. <br>
-*Status: All requirements for phase 1 completed. Project shutdown.*<br/><img src='/images/500x300.png'>"
+*Status: All requirements for phase 1 completed. Project shutdown.*<br/><img src='/images/git2_hmt.JPG'>"
 collection: portfolio
 ---
 
