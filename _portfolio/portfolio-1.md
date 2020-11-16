@@ -1,7 +1,7 @@
 ---
 title: "Project PINAKA"
 excerpt: "Replication of the ALOFT project. <br>
-*Status: Prototype complete. Project Shutdown.*<br/><img src='/images/500x300.png'>"
+*Status: Prototype complete. Project Shutdown.*<br/><img src='/images/naca_0016.png'>"
 collection: portfolio
 ---
 
