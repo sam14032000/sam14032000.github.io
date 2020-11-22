@@ -14,8 +14,6 @@ My name is Saksham Agrawal. I am an undergrad student at [Birla Institute of Tec
 <script src="https://gist.github.com/sam14032000/e64ca9bf5d370c555152ae23b684b5a6.js"></script>
 
 ## Research Interests & Projects pursued
-Broadly, my research interests are split into Artificial Intelligence, Econometrics & Computational Finance. 
-
 Exploring AI, I worked on replicating the ALOFT project by the Naval Research Laboratory, Washington, and completed a basic version of the algorithm at the end of the study in 2018. My work in Computational Finance involves two research studies, first of which decribes a [VAR + LSTM hybrid prediction model](https://sam14032000.github.io/research/3/), used to predict the future volatility of financial markets, completed mid-2020 and under review by a journal. The second paper is a [network analysis study](https://sam14032000.github.io/research/5/) focused on analysing the links between different international markets, when going through certain financial events, a draft of the paper was completed late in 2020. In Econometrics, I worked on recession analysis and volatilty transmission. Both research papers were completed in early and mid 2020 respectively, and are currently under review by journals. 
 
 For more info
