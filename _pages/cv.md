@@ -21,7 +21,7 @@ Work experience
 ======
 * May - July 2019: Development Intern
   * Samhita Social Ventures
-  * Duties included: Business Developmwnt and Sales
+  * Duties included: Business Development and Sales
   * Location: Mumbai, India
 
 * October 2018 - 2019: Research Consultant
