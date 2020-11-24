@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download full CV here: [(pdf)]({{site.baseurl}}/files/cv_latest_saksham.pdf)
+You can download full CV here: [(pdf)](/files/cv_latest_saksham.pdf)
 
 Education
 ======
