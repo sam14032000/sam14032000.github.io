@@ -17,4 +17,4 @@ For more info
 ------
 For details of my formal education, please view my [CV](https://sam14032000.github.io/cv/). If you found my profile interesting and want to discuss more, do send me an email at [sakshama135@gmail.com](mailto:sakshama135@gmail.com).  
 
-P.S. I'm open to discussing philosophy too :)
+P.S. I'm open to discussing different sects of philosophy too :)
